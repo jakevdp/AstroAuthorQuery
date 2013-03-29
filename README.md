@@ -18,8 +18,8 @@ and navigate to the ``AstroAuthorQuery`` directory containing the
 Once this extension is loaded, you can type "ADS" in the omnibox, followed
 by an author query.
 
-![Entering Text](github.com/jakevdp/AstroAuthorQuery/blob/master/Screenshot-1.png)
-![Resulting Page](github.com/jakevdp/AstroAuthorQuery/blob/master/Screenshot-2.png)
+![Entering Text](Screenshot-1.png)
+![Resulting Page](Screenshot-2.png)
 
 Examples
 --------
