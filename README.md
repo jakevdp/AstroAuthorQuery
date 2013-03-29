@@ -32,9 +32,9 @@ Examples
 
 - ``ADS ^Einstein 1906-1910``: Search for papers with the first author "Einstein", published from 1906 to 1910.
 
-- ``ADS vanderplas & connolly 2009: Search for papers written by vanderplas & connolly (and perhaps other authors) in the year 2009
+- ``ADS vanderplas & connolly 2009``: Search for papers written by vanderplas & connolly (and perhaps other authors) in the year 2009
 
-- ``ADS ^vanderplas and connolly 2011: Search for papers written by vanderplas & connolly (and perhaps other authors) with vanderplas as the first author, published in the year 2011
+- ``ADS ^vanderplas and connolly 2011``: Search for papers written by vanderplas & connolly (and perhaps other authors) with vanderplas as the first author, published in the year 2011
 
 Issues
 ------
