@@ -1,8 +1,9 @@
 AstroAuthorQuery
 ================
 
-A simple chrome extension to do quick ADS author queries from the Chrome
-Omnibox.
+This is a simple Google Chrome extension to allow quick
+[ADS](http://adsabs.harvard.edu/abstract_service.html) author
+queries from the search bar.
 
 To load this extension, clone this repository, and make sure you have
 installed [Google Chrome](https://www.google.com/intl/en/chrome/browser/).
@@ -18,7 +19,12 @@ and navigate to the ``AstroAuthorQuery`` directory containing the
 Once this extension is loaded, you can type "ADS" in the omnibox, followed
 by an author query.
 
+ScreenShots
+-----------
+Entering the text in the omnibox:
 ![Entering Text](Screenshot-1.png)
+
+Resulting Page:
 ![Resulting Page](Screenshot-2.png)
 
 Examples
